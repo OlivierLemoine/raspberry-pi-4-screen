@@ -1,0 +1,8 @@
+[package]
+name = "screen"
+version = "0.1.0"
+authors = ["Olivier Lemoine <olivier@le-moine.fr>"]
+edition = "2018"
+
+[dependencies]
+hal = { git = "https://github.com/olivierlemoine/raspberry-pi-4-hal" }
